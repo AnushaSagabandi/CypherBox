@@ -1,0 +1,84 @@
+﻿body {
+
+    background:url(../bk4.png) top left repeat;
+    margin:0px;
+    padding:0px;
+    color : white;
+    background-attachment:fixed;
+    font-family:'Book Antiqua'
+    
+}
+
+
+#header{
+     background:url(../bk1.jpg) top left repeat;
+     width:auto;
+    height:150px;
+    font-style:normal;
+    font-family:Castellar;
+    text-decoration:wavy;
+    text-align:center;
+    text-shadow:20px 12px 12px;
+    font-size:x-large;
+}
+
+#header1{
+     background:url(../bk1.jpg) top left repeat;
+     width:auto;
+    height:50px;
+   
+}
+
+#left{
+    float:left;
+         background:url(../bk4.png) top left repeat;
+    clear:none;
+    width:10%;
+    height:400px;
+}
+
+#left1{
+    float:left;
+         background:url(../bk4.png) top left repeat;
+    clear:none;
+    width:37%;
+    height:500px;
+    font-size:22px;
+    text-align:justify;
+}
+
+#left2{
+    float:left;
+         background:url(../bk4.png) top left repeat;
+    clear:none;
+    width:37%;
+    height:800px;
+    font-size:28px;
+    text-align:justify;
+}
+#right{
+    float:right;
+     clear:none;
+    width:90%;
+    height:400px;
+}
+
+#right1{
+    float:right;
+     clear:none;
+    width:75%;
+    height:400px;
+}
+.mybtnstyle
+{
+background-color:#57A957;
+    color:white;
+}
+
+
+
+#footer{
+    background:url(../bk1.jpg) top left repeat;
+    height:100px;
+    width:1000px;
+}
